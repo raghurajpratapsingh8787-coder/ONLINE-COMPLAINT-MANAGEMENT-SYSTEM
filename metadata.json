@@ -1,0 +1,6 @@
+{
+  "name": "ResolveDesk — Online Complaint Management System",
+  "description": "Enterprise Online Complaint Management System with real-time Socket.IO tracking, MongoDB persistence, RBAC workflows, SLA escalation, secure evidence vault, and analytics. Architected by Raghuraj Pratap Singh (raghurajpratapsingh8787@gmail.com).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
